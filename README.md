@@ -29,4 +29,4 @@ Screenshot (47).png
 
 
 ## Azure Portal screenshot
-Screenshot (48).png
+{Screenshot (48).png} https://github.com/Rakshita2003/QnABotMenstrualHygiene.github.io/blob/main/screenshorts/Screenshot%20(48).png

@@ -14,18 +14,23 @@ Alya is a free web-based application developed for girls and womens in developin
 ![Screenshot (41)](https://user-images.githubusercontent.com/101338848/177296186-08f0c747-8659-4c0f-9125-9cf9d4fa7f95.png)
 ![Screenshot (42)](https://user-images.githubusercontent.com/101338848/177296312-8f65b639-e84b-456d-8c51-674a9a89c8ee.png)
 
+
 ## History Page
 ![Screenshot (43)](https://user-images.githubusercontent.com/101338848/177296429-71c855df-9efa-4e2a-a5d5-d1232c6d1342.png)
 
+
 ## Team Page
 ![Screenshot (44)](https://user-images.githubusercontent.com/101338848/177296535-f0dcd0ee-d024-489d-b692-376769f73d6b.png)
+
 
 ## FAQ Page
 ![Screenshot (45)](https://user-images.githubusercontent.com/101338848/177296660-ce05f090-ac8b-4488-a3df-8a6dba54f11a.png)
 ![Screenshot (46)](https://user-images.githubusercontent.com/101338848/177296681-aa478566-14be-4605-af1e-5ee64538339f.png)
 ![Screenshot (47)](https://user-images.githubusercontent.com/101338848/177296710-28c318ec-060a-4bb3-bdcf-24c55cea5f08.png)
 
+
 ## Youtube video that I made to show my project:
+https://youtu.be/nsd4zT8O-HQ
 
 
 ## Azure Portal screenshot

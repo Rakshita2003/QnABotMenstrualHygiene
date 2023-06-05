@@ -1,5 +1,5 @@
 ## Future Ready Talent Project by Rakshita Gowda
-In my website, I have created a Menstrual Hygiene ChatBot, Alya- a robot meant to answer menstrual hygiene and period questions which are developed for girls and womens.
+In this website, I have created a Menstrual Hygiene ChatBot, Alya- a robot meant to answer menstrual hygiene and period questions which are developed for girls and womens.
 
 ## My Website Link: https://sites.google.com/view/menstrual-hygiene-chatbot/home
 
